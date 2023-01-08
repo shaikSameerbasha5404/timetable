@@ -121,3 +121,5 @@ Execute the program
 # OUPUT
 ![model](/logo.png)
 ![model](/timetable.png)
+# Result
+Timetable is sucessfully created.
